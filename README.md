@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Jana Viciana</h1>
 
 <h3 align="center">
-Analista en Sistemas 💻 | Ingeniera en Software 🎓 | Anamorada la Inteligencia Artificial 🤖
+Analista en Sistemas 💻 | Ingeniera en Software 🎓 
 </h3>
 
 <br>
