@@ -27,7 +27,7 @@ Actualmente me especializo en el desarrollo de software, bases de datos e inteli
 
 ## 💻 Tecnologías y Lenguajes
 
-<p>
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
 <img src="https://skillicons.dev/icons?i=cs" height="45"/>
