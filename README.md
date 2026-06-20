@@ -32,6 +32,7 @@ Actualmente me especializo en el desarrollo de software, bases de datos e inteli
 <img src="https://skillicons.dev/icons?i=java" height="45"/>
 <img src="https://skillicons.dev/icons?i=cs" height="45"/>
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=php" height="45"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
 <img src="https://skillicons.dev/icons?i=git" height="45"/>
