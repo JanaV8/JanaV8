@@ -55,6 +55,7 @@ Actualmente me especializo en el desarrollo de software, bases de datos e inteli
 
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 <img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=supabase" height="45"/>
 
 </p>
 
