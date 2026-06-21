@@ -17,7 +17,6 @@ Actualmente me especializo en el desarrollo de software, bases de datos e inteli
 <ul>
     <li>🎓 Analista en Sistemas e Ingeniera en Software.</li>
     <li>🤖 Interesada en Inteligencia Artificial y Machine Learning.</li>
-    <li>📊 Apasionada por el análisis de datos y Business Intelligence.</li>
     <li>🛠️ Disfruto diseñar y desarrollar aplicaciones escalables.</li>
     <li>🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas.</li>
     <li>💡 Me gusta enfrentar desafíos y convertir problemas en soluciones reales.</li>
@@ -50,10 +49,8 @@ Actualmente me especializo en el desarrollo de software, bases de datos e inteli
 
 - 🤖 Inteligencia Artificial
 - 🧩 Procesamiento de Lenguaje Natural (NLP)
-- 📈 Ciencia de Datos
 - 🗄️ Bases de Datos
 - 🏗️ Arquitectura de Software
-- 📊 Business Intelligence
 
 ---
 
