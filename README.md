@@ -24,24 +24,53 @@ Actualmente me especializo en el desarrollo de software, bases de datos e inteli
 
 ---
 
-## 💻 Tecnologías y Lenguajes
+## 💻 Lenguajes de Programación
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=cs" height="45"/>
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=java" height="45"/>
 <img src="https://skillicons.dev/icons?i=php" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=unity" height="45"/>
+<img src="https://skillicons.dev/icons?i=cs" height="45"/>
+
+</p>
+
+---
+
+## 🌐 Desarrollo Web
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 <img src="https://skillicons.dev/icons?i=js" height="45"/>
 
 </p>
+
+---
+
+## 🗄️ Bases de Datos
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+
+</p>
+
+---
+
+## 🛠️ Herramientas y Entornos
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
+<img src="https://skillicons.dev/icons?i=git" height="45"/>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+<img src="https://skillicons.dev/icons?i=unity" height="45"/>
+
+</p>
+
 
 ---
 
